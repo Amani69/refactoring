@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-class Player:
+class Player1:
     def __init__(self, name):
         self.name = name
         self.points = 0
